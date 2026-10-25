@@ -3,7 +3,7 @@ Entry of AgiePF: an open-source point-foot biped robot with high performance
 
 📄 **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889026004811)** |
 💻 **[Code](https://github.com/lupinjia/agilepf)** |
-🤖 **[Video]()**
+🤖 **[Video](https://www.bilibili.com/video/BV1pxHG68E81/?spm_id_from=333.1387.homepage.video_card.click)**
 
 ## Related repos
 | Title | Description | Stars | Forks |
