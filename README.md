@@ -5,6 +5,14 @@ Entry of AgiePF: an open-source point-foot biped robot with high performance
 💻 **[Code](https://github.com/lupinjia/agilepf)** |
 🤖 **[Video](https://www.bilibili.com/video/BV1pxHG68E81/?spm_id_from=333.1387.homepage.video_card.click)**
 
+## Performance
+| Name | Effects |
+| ---- | ------  |
+| Downstairs(15cm) | <img width="426" height="240" alt="downstairs_15cm" src="https://video.jiayasen.top/videos/agilepf/downstairs_15cm.gif" /> |
+| Running(3m/s) | <video src="[你的视频地址.mp4](https://video.jiayasen.top/videos/agilepf/3mps_running.gif)" controls width="600" poster="封面图地址.jpg">你的浏览器不支持 HTML5 视频。</video> |
+
+
+
 ## Related repos
 | Title | Description | Stars | Forks |
 | ----- | ----------- | ----- | ----- |
