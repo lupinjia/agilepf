@@ -8,9 +8,10 @@ Entry of AgiePF: an open-source point-foot biped robot with high performance
 ## Performance
 | Name | Effects |
 | ---- | ------  |
-| Downstairs(15cm) | <img width="426" height="240" alt="downstairs_15cm" src="https://video.jiayasen.top/videos/agilepf/downstairs_15cm.gif" /> |
-| Running(3m/s) | <video src="[你的视频地址.mp4](https://video.jiayasen.top/videos/agilepf/3mps_running.gif)" controls width="600" poster="封面图地址.jpg">你的浏览器不支持 HTML5 视频。</video> |
-
+| Running (3m/s) | <img width="426" height="240" alt="3mps_running" src="https://video.jiayasen.top/videos/agilepf/3mps_running.gif" /> |
+| Downstairs (15cm) | <img width="426" height="240" alt="downstairs_15cm" src="https://video.jiayasen.top/videos/agilepf/downstairs_15cm.gif" /> |
+| Slope (30°) | <img width="426" height="240" alt="slope_30deg" src="https://video.jiayasen.top/videos/agilepf/slope_30deg.gif" /> |
+| Walking on cobbled road | <img width="426" height="240" alt="walk_cobbled_road" src="https://video.jiayasen.top/videos/agilepf/walk_cobbled_road.gif" /> |
 
 
 ## Related repos
