@@ -5,15 +5,6 @@ Entry of AgiePF: an open-source point-foot biped robot with high performance
 💻 **[Code](https://github.com/lupinjia/agilepf)** |
 🤖 **[Video](https://www.bilibili.com/video/BV1pxHG68E81/?spm_id_from=333.1387.homepage.video_card.click)**
 
-## Performance
-| Name | Effects |
-| ---- | ------  |
-| Running (3m/s) | <img width="426" height="240" alt="3mps_running" src="https://video.jiayasen.top/videos/agilepf/3mps_running.gif" /> |
-| Downstairs (15cm) | <img width="426" height="240" alt="downstairs_15cm" src="https://video.jiayasen.top/videos/agilepf/downstairs_15cm.gif" /> |
-| Slope (30°) | <img width="426" height="240" alt="slope_30deg" src="https://video.jiayasen.top/videos/agilepf/slope_30deg.gif" /> |
-| Walking on cobbled road | <img width="426" height="240" alt="walk_cobbled_road" src="https://video.jiayasen.top/videos/agilepf/walk_cobbled_road.gif" /> |
-
-
 ## Related repos
 | Title | Description | Stars | Forks |
 | ----- | ----------- | ----- | ----- |
